@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geroid
 - 👀 I’m interested in iOS, embedded and backend
-- 🌱 I’m currently learning Golang and Raspberry Pi
+- 🌱 I’m currently learning Python and Raspberry Pi
 - 📫 How to reach me geroid1735@gmail.com
 
 <!---
