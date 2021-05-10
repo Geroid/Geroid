@@ -1,6 +1,6 @@
 # Victor Rezvantsev - @geroid
 - 👋 Hi, I’m Victor - a junior iOS developer from Taganrog, Russia :ru:
-- 👀 I’m interested in iOS, embedded and backend.
+- 👀 I’m interested in iOS, GameDev, embedded and backend.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 
 # Find me around the web:
