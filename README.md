@@ -1,4 +1,6 @@
-- 👋 Hi, I’m iOS-developer.
+# Victor Rezvantsev - @geroid
+Hi, 
+- 👋 Hi, I’m Victor - a junior iOS developer.
 - 👀 I’m interested in iOS, embedded and backend.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 - 📫 How to reach me geroid1735@gmail.com or telegram tag - @ViktorRezvantsev
