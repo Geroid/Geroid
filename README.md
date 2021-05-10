@@ -5,7 +5,7 @@
 
 # Find me around the web:
 - 📫 Mail - geroid1735@gmail.com
-- Telegram tag - @ViktorRezvantsev
+- Telegram tag - @VictorRezvantsev
 
 <!---
 Geroid/Geroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
