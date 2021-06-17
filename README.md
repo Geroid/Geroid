@@ -1,5 +1,5 @@
 # Victor Rezvantsev - @VictorRezvantsev
-- 👋 Hi, I’m Victor - a junior iOS developer from Taganrog, Russia :ru:
+- 👋 Hi, I’m Victor - a iOS developer with more than 1 year of commertial experience.
 - 👀 I’m interested in iOS, GameDev, embedded and backend.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 <p align='center'>
@@ -8,10 +8,12 @@
   </a>
 </p>
 
+## 🛠 Technical Stack
+*   Swift
+*   Alamofire, RxSwift, RxCocoa, SnapKit,  Realm, Kingfisher.
+*   CocoaPods
+*   MVC, MVP, MVVM
+*   GitHub/GitLab/
+
 # Find me around the web:
 - 📫 Mail - geroid1735@gmail.com
-
-<!---
-Geroid/Geroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
