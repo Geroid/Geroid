@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Victor
-I'm a iOS developer with more than 1 year of commertial experience.
+iOS developer with more than 1 year of commertial experience.
 - 👀 I’m interested in iOS, GameDev, embedded and backend.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 <p align='center'>
