@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Victor
+# 👋 Hi, I’m Viktor
 iOS developer with more than 1 year of commertial experience.
-Looking for work!
+- Looking for work!
 - 👀 I’m interested in iOS, GameDev, embedded and backend.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 <p align='center'>
