@@ -13,7 +13,7 @@ iOS developer with more than 1 year of commertial experience.
 *   Swift
 *   Alamofire, RxSwift, RxCocoa, SnapKit,  Realm, Kingfisher.
 *   CocoaPods
-*   MVC, MVP, MVVM
+*   MVC, MVP, MVVM, VIPER
 *   GitHub/GitLab/
 
 # Find me around the web:
